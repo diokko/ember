@@ -1,3 +1,7 @@
+/** 
+* this is the file of test rentals 
+*/
+
 import { test } from 'qunit';
 import moduleForAcceptance from 'super-rentals/tests/helpers/module-for-acceptance';
 
